@@ -1,0 +1,11 @@
+name: sparql-test
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - numpy
+  - jupyter
+  - pip
+  - pip:
+    - rdflib
+    - sparqlwrapper
