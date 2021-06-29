@@ -1,1 +1,1 @@
-# FAIR Data Collective SPARQL Endpoint Exploration with Python
+# SPARQL Endpoint Exploration with Python
