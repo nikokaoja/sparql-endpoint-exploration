@@ -1,2 +1,1 @@
-# test-sparql
-Repo for Binder 
+# FAIR Data Collective SPARQL Endpoint Exploration with Python
